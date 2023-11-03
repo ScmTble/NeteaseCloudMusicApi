@@ -126,6 +126,8 @@ banner({ type:0 }).then(res=>{
 ```
 
 
+
+
 ## 使用文档
 
 [文档地址](https://binaryify.github.io/NeteaseCloudMusicApi) 
